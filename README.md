@@ -11,5 +11,8 @@ It is built on top of one of the fastest and real-time data indexing engine - Po
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
+Release History:
+30/08/2021: index.html version 1
+
 Screenshots:
 ![Screenshot (3)](https://user-images.githubusercontent.com/63916324/131324792-0ce610b2-13b2-498a-b3c1-da2c9a3f20fa.png)
